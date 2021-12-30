@@ -1,0 +1,196 @@
+1	 0	
+Viktor
+Middle, Top
+52.01%	9.74%	
+2	 0	
+Zed
+Middle, Jungle
+50.92%	12.07%	
+3	 0	
+Vex
+Middle, Support
+51.39%	8.09%	
+4	 0	
+Katarina
+Middle
+51.23%	6.83%	
+5	 0	
+Kassadin
+Middle
+51.11%	7.56%	
+6	 0	
+LeBlanc
+Middle
+48.79%	11.42%	
+7	 0	
+Akshan
+Middle, Top
+51.77%	4.32%	
+8	 0	
+Anivia
+Middle, Support
+53.80%	2.85%	
+9	 0	
+Qiyana
+Middle, Jungle
+52.37%	3.95%	
+10	 0	
+Twisted Fate
+Middle
+51.00%	8.24%	
+11	 0	
+Sylas
+Middle, Top
+49.96%	8.61%	
+12	 0	
+Yasuo
+Middle, Top, Bottom
+48.01%	9.34%	
+13	 0	
+Talon
+Jungle, Middle
+49.86%	2.88%	
+14	 0	
+Yone
+Top, Middle
+47.72%	9.04%	
+15	 0	
+Lissandra
+Middle
+51.67%	2.89%	
+16	 0	
+Xerath
+Support, Middle
+49.52%	2.75%	
+17	 1	
+Cassiopeia
+Middle, Top, Bottom
+51.87%	2.36%	
+18	 1	
+Akali
+Top, Middle
+47.98%	7.34%	
+19	 1	
+Zoe
+Middle
+49.91%	4.23%	
+20	 1	
+Tryndamere
+Top, Middle
+53.26%	0.84%	
+21	 0	
+Irelia
+Top, Middle
+47.96%	4.31%	
+22	 2	
+Fizz
+Middle
+50.06%	2.16%	
+23	 0	
+Pantheon
+Support, Middle
+52.22%	1.16%	
+24	 2	
+Ahri
+Middle
+50.67%	4.17%	
+25	 5	
+Malphite
+Top, Middle
+50.52%	1.16%	
+26	 1	
+Annie
+Middle
+53.62%	0.96%	
+27	 1	
+Ekko
+Jungle, Middle
+49.70%	2.78%	
+28	 2	
+Lux
+Support, Middle
+49.19%	2.76%	
+29	 2	
+Galio
+Middle, Support
+50.39%	2.14%	
+30	 1	
+Syndra
+Middle
+48.64%	4.62%	
+31	 0	
+Malzahar
+Middle
+50.89%	1.63%	
+32	 1	
+Jayce
+Top, Middle
+48.70%	2.15%	
+33	 1	
+Nunu & Willump
+Jungle, Middle
+50.90%	1.17%	
+34	 2	
+Aurelion Sol
+Middle
+53.09%	0.64%	
+35	 0	
+Renekton
+Top, Middle
+50.44%	1.05%	
+36	 1	
+Vladimir
+Middle, Top
+49.80%	1.80%	
+37	 1	
+Aatrox
+Top, Middle
+50.69%	0.88%	
+38	 2	
+Sett
+Top, Middle, Support
+50.11%	0.95%	
+39	 0	
+Jax
+Top, Jungle, Middle
+50.95%	0.51%	
+40	 2	
+Corki
+Middle
+47.02%	4.30%	
+41	 1	
+Lucian
+Bottom, Middle, Top
+47.24%	1.92%	
+42	 1	
+Orianna
+Middle
+48.85%	3.09%	
+43	 1	
+Diana
+Jungle, Middle
+50.46%	0.95%	
+44	 1	
+Veigar
+Middle, Support
+50.27%	0.94%	
+45	 0	
+Garen
+Top, Middle
+49.67%	0.65%	
+46	 0	
+Riven
+Top, Middle
+51.49%	0.53%	
+47	 1	
+Rumble
+Top, Middle, Jungle
+50.23%	0.80%	
+48	 1	
+Ryze
+Middle, Top
+46.08%	3.39%	
+49	 0	
+Azir
+Middle
+47.79%	1.49%	

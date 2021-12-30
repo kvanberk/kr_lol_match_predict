@@ -1,0 +1,92 @@
+1	 0	
+Vayne
+Bottom, Top
+53.24%	11.87%	
+2	 0	
+Jinx
+Bottom
+50.96%	23.89%	
+3	 0	
+Jhin
+Bottom
+50.57%	26.88%	
+4	 0	
+Ezreal
+Bottom
+49.36%	29.22%	
+5	 0	
+Samira
+Bottom
+50.04%	9.67%	
+6	 0	
+Caitlyn
+Bottom
+49.00%	17.76%	
+7	 0	
+Kai'Sa
+Bottom
+48.50%	26.52%	
+8	 0	
+Lucian
+Bottom, Middle, Top
+48.77%	9.86%	
+9	 0	
+Ashe
+Bottom
+52.21%	4.97%	
+10	 0	
+Ziggs
+Bottom
+52.09%	2.53%	
+11	 0	
+Twitch
+Bottom
+52.54%	2.55%	
+12	 0	
+Xayah
+Bottom
+50.23%	3.56%	
+13	 0	
+Draven
+Bottom
+50.38%	2.70%	
+14	 0	
+Swain
+Support, Bottom
+54.47%	0.54%	
+15	 0	
+Miss Fortune
+Bottom, Support
+49.44%	3.66%	
+16	 0	
+Aphelios
+Bottom
+47.19%	7.27%	
+17	 0	
+Cassiopeia
+Middle, Top, Bottom
+53.22%	0.51%	
+18	 0	
+Sivir
+Bottom
+51.35%	1.35%	
+19	 1	
+Yasuo
+Middle, Top, Bottom
+49.10%	1.20%	
+20	 1	
+Kog'Maw
+Bottom
+51.42%	1.18%	
+21	 0	
+Varus
+Bottom
+49.30%	2.17%	
+22	 0	
+Kalista
+Bottom
+49.02%	1.77%	
+23	 0	
+Tristana
+Bottom
+48.54%	1.52%	

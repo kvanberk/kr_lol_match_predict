@@ -1,0 +1,172 @@
+1	 0	
+Blitzcrank
+Support
+52.05%	15.03%	
+2	 0	
+Lulu
+Support
+51.32%	15.36%	
+3	 0	
+Leona
+Support
+51.04%	10.72%	
+4	 0	
+Xerath
+Support, Middle
+50.61%	11.26%	
+5	 0	
+Thresh
+Support
+49.06%	17.95%	
+6	 0	
+Lux
+Support, Middle
+49.97%	12.47%	
+7	 0	
+Shaco
+Jungle, Support
+51.79%	2.39%	
+8	 0	
+Pyke
+Support
+49.59%	8.11%	
+9	 1	
+Nautilus
+Support
+50.05%	7.41%	
+10	 1	
+Morgana
+Support
+49.13%	6.26%	
+11	 0	
+Yuumi
+Support
+48.14%	10.81%	
+12	 0	
+Alistar
+Support
+50.66%	5.62%	
+13	 0	
+Soraka
+Support
+52.09%	4.63%	
+14	 0	
+Maokai
+Support, Top
+51.67%	3.89%	
+15	 0	
+Zilean
+Support
+51.50%	3.42%	
+16	 0	
+Nami
+Support
+49.93%	5.08%	
+17	 0	
+Karma
+Support
+49.03%	8.02%	
+18	 0	
+Rell
+Support
+51.72%	1.81%	
+19	 0	
+Rakan
+Support
+50.41%	4.31%	
+20	 0	
+Zyra
+Support
+51.84%	2.32%	
+21	 0	
+Braum
+Support
+51.27%	2.60%	
+22	 0	
+Janna
+Support
+51.58%	2.23%	
+23	 1	
+Sona
+Support
+52.58%	1.68%	
+24	 1	
+Poppy
+Jungle, Top, Support
+51.33%	0.64%	
+25	 2	
+Brand
+Support
+50.32%	2.14%	
+26	 1	
+Vex
+Middle, Support
+48.07%	1.53%	
+27	 1	
+Amumu
+Support, Jungle
+50.27%	1.19%	
+28	 0	
+Senna
+Support
+47.62%	3.67%	
+29	 0	
+Pantheon
+Support, Middle
+48.78%	1.88%	
+30	 0	
+Bard
+Support
+49.83%	2.15%	
+31	 0	
+Anivia
+Middle, Support
+49.79%	0.83%	
+32	 1	
+Vel'Koz
+Support
+49.94%	1.56%	
+33	 1	
+Swain
+Support, Bottom
+48.65%	1.51%	
+34	 1	
+Gragas
+Top, Jungle, Support
+50.13%	0.98%	
+35	 1	
+Taric
+Support
+50.23%	0.80%	
+36	 0	
+Shen
+Top, Support
+50.21%	0.71%	
+37	 0	
+Zac
+Jungle, Support, Top
+48.61%	0.91%	
+38	 0	
+Galio
+Middle, Support
+47.02%	1.44%	
+39	 0	
+Veigar
+Middle, Support
+49.30%	0.59%	
+40	 0	
+Sett
+Top, Middle, Support
+46.64%	0.90%	
+41	 0	
+Seraphine
+Support
+46.62%	1.30%	
+42	 0	
+Trundle
+Jungle, Top, Support
+46.67%	0.74%	
+43	 0	
+Miss Fortune
+Bottom, Support
+41.23%	0.67%	
