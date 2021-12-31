@@ -6,3 +6,4 @@ Repo includes the following;
 2. Analyses the match information for various insights
 3. Creates a Logistic Regression classification model to predict the outcome of matches based on draft strategy information
 4. Plotly-Dash web-application front end to display various information
+5. Pseudo Datahub directory with the intention this can be stored in a database file structure like hdfs
