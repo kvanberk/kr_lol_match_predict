@@ -46,7 +46,7 @@ df_table = df_table.rename(columns = {'summoner_name': 'Summoner Name',
                                       'total': 'Games Played',
                                       'win_rate': 'Win Rate (%)'})
 
-# note the above could be created in a separate etl, however, for this exercise, giving the small scale of it, etls are down within the visualisation script
+# note the above could be created in a separate etl, however, given the small scale of this exercise, etls are down within the front-end script
 
 # dropdown filter component
 dropdown_summoner = dcc.Dropdown(
